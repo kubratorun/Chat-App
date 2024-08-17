@@ -72,5 +72,6 @@ Ensure you  have `Node.js` (LTS version) and `npm` installed on your machine.
 You should now have a WebSocket connection established, allowing you to send messages between connected clients in real-time.
 
 ### ENJOY THE CHAT APP 🥳
+<img width="956" alt="Ekran Resmi 2024-08-17 21 25 23" src="https://github.com/user-attachments/assets/83c37622-3329-4d2d-9486-1705342443ba">
 <img width="461" alt="bart" src="https://github.com/user-attachments/assets/1df10409-0688-4f09-bdd9-9e876b7948a8">
 <img width="1429" alt="homer" src="https://github.com/user-attachments/assets/a0953d99-1025-43b3-88ec-d9586cccba85">
