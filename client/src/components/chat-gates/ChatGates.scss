@@ -1,0 +1,28 @@
+@use '../../App.scss' as app;
+
+.chat-gates {
+  display: grid;
+  height: 100vh;
+}
+
+.chat-gates__form {
+  place-self: center;
+
+  @media screen and (max-width: app.$max-mobile-width) {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    .input {
+      margin-bottom: 1rem;
+    }
+  }
+}
+
+button.chat-gates__form__button {
+  margin: 0 0 0 1rem;
+
+  @media screen and (max-width: app.$max-mobile-width) {
+    margin: 0;
+  }
+}

@@ -1,0 +1,16 @@
+.DS_Store
+/node_modules
+npm-debug.log
+/client/node_modules
+/server/node_modules
+/client/build/
+yarn-error.log
+yarn.lock
+.history
+.env
+.docker
+.idea
+.vscode
+.project
+.tool-versions
+/report*.json
